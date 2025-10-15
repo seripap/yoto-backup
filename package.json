@@ -1,0 +1,13 @@
+{
+  "name": "yoto-backup",
+  "version": "1.0.0",
+  "description": "Yoto Card backup",
+  "main": "yoto.js",
+  "author": "dan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "fs-extra": "^11.3.2"
+  }
+}

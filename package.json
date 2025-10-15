@@ -4,6 +4,7 @@
   "description": "Yoto Card backup",
   "main": "yoto.js",
   "author": "dan",
+  "type": "module",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.12.2",

@@ -384,7 +384,9 @@ async function main() {
     console.log("Usage: node yoto.js <url> <folder-name>");
     console.log("");
     console.log("Example:");
-    console.log("  node yoto.js https://yoto.io/abc?12=345 folder-name");
+    console.log(
+      "  node yoto.js https://yoto.io/hMkni?84brH2BNuhyl=e79sopPfwKnBL folder-name",
+    );
     process.exit(1);
   }
 
